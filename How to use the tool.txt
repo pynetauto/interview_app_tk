@@ -1,0 +1,33 @@
+============================================================
+## How to Use this Application?
+============================================================
+
+### Step 1: Prepare the Question Data
+1. Open `interview_questions_v1.0.xlsx` in Microsoft Excel.
+2. Populate the file with your team’s interview questions, answers, topics, and difficulty levels.  
+   - Ensure the following headers are present and unchanged:
+     - `Question Number`, `Interview Question`, `Topic`, `Answer`, `Difficulty`
+   - Difficulty levels should be one of:  
+     - `Easy`, `Medium`, or `Hard` (case insensitive).
+3. Save and close the Excel file after making updates.
+
+---
+### Step 2: Setup the Application
+1. Place the following files in the same folder:  
+   - `italchemy_interview_app_v1.0.exe` (the compiled application file).  
+   - `interview_questions_v1.0.xlsx` (the data file).  
+
+---
+### Step 3: Launch the Application
+1. Double-click on `italchemy_interview_app_v1.0.exe` to launch the tool.
+2. The application will load and display the interface with the following features:  
+   - Buttons to select `Easy`, `Medium`, or `Hard` questions.
+   - A display area for questions, topics, and answers.
+   - Options to reset used questions, zoom in/out, and view question counts.
+3. Start using the application to display interview questions based on difficulty.  
+
+---
+### Tips for Use
+- Ensure the `interview_questions_v1.0.xlsx` file remains in the same folder as the application to avoid errors.
+- Use the Reset buttons if you need to restart the question pool for a difficulty level.
+- Adjust the display size using the Zoom In and Zoom Out buttons to improve readability during interviews.
