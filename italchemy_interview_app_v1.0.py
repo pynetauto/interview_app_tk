@@ -1,7 +1,7 @@
 """
 Author: Brendan (Byong Chol) Choi
 App Name: italchemy_interview_app_v1.0.py
-Date: 09/Dec/2024
+Date: 01/Dec/2024
 Purpose: 
 This application helps interviewers prepare questions and answers, ensuring 
 consistent questions are asked for all candidates applying for a role. 
